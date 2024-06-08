@@ -17,6 +17,7 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
  * Review challenge: do all the CSS yourself based on the design
  * linked in the slides.
  */
+import "./server"
 
 function App() {
 
